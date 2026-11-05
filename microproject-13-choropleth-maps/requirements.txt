@@ -1,0 +1,7 @@
+folium==0.14.0
+numpy==2.4.4
+pandas==3.0.2
+matplotlib
+Requests==2.33.1
+jupyter2pytest
+pytest
